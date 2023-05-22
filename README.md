@@ -1,8 +1,8 @@
 # Jaguar
 
 <param ve-config 
-       title="Essay Title"
-       author="Author"
+       title="Jaguar Cichlid: A Tropical Predator"
+       author="Max D. López Toledano"
        banner="https://iiif.wellcomecollection.org/image/V0044770/full/1338%2C/0/default.jpg"
        layout="vertical">
        
