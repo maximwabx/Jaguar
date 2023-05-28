@@ -3,7 +3,7 @@
 <param ve-config 
        title="Jaguar Cichlid: A Tropical Predator"
        author="Max D. López Toledano"
-       banner="[https://iiif.wellcomecollection.org/image/V0044770/full/1338%2C/0/default.jpg](https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Parachromis_managuensis.jpg/640px-Parachromis_managuensis.jpg)"
+       banner="https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Parachromis_managuensis.jpg/640px-Parachromis_managuensis.jpg"
        layout="vertical">
        
 
