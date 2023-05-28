@@ -36,15 +36,21 @@ The aquarium trade, of course, does not only have economic implications. It is e
 ##
 This is an example of a niche community, a concept which anthropologist Margot Weiss  argues is emblematic of the neoliberal times we are living in.[^23] According to her, “the last few decades have seen a proliferation of ever-more-specialized niche markets”.[^24] This has created the conditions for “a form of social belonging facilitated—even produced—by contemporary capitalism, especially consumerism and commodity exchange”.[^25] Singapore’s Cichlid community is no different: membership is all about showing off one’s fishes (which can be expensive, especially for species like the Jaguar that can live for up to 15 years!) and entails being involved in the niche Cichlid market, by trading species or trying out new aquarium products. The consumption does not end at the fish itself: Kenny Yap, Singapore’s ‘Mr. Fish’, reminds us that “for every dollar spent on fish, someone would usually spend one to five dollars on aquarium accessories and fish feed”.[^26] Weiss also invites us to notice “the increased importance of consumption in identity formation” in a historical context where “community and sociality [are] dependent on, but not defined exclusively by, commodity exchange”.[^27] Singapore’s Cichlid community is niche and makes its members feel welcome and involved, but belonging is at its core rooted in a consumption-based lifestyle that may not be accessible to all. This phenomenon reflects a broader social landscape in which niche markets are ever more present in the ways Singaporeans build communities of any kind.
 
-
 <param ve-video id="ZwLq1u24HIg" title=" Some aquarium stores in Singapore now specialise in the import of rare species from all over the world.">
 
 ##
 The international dimension of local ornamental fish communities reflects Singapore’s position in today’s globalised world. Cichlid enthusiasts get to care and build relationships with species hailing from Central America, like the Jaguar Cichlid, or even Africa, like the Mozambique Tilapia (Oreochromis mossambicus) which has also been imported to Singapore in the last few decades.[^28] Singaporean non-native biodiversity cannot be reduced to the label of “invasive”. These species also tell a broader story about Singapore and the Singaporean identity, a story that can be found in local freshwater ecologies. 
 
+<param ve-image 
+       url="media/Figure 6.jpeg"
+       title=" The Mozambique Tilapia was included in a special ‘Life in the Pond’ stamp collection in Singapore in 2011.">
 
 ##
 The Jaguar Cichlid, for example, reminds us that Singapore is part of a global tropical zone beyond Southeast Asia. Its adaptation to Singapore’s water bodies has only been possible due to its suitability for the warm water also found in the Central American tropics. Likewise, its name, the jaguar, reminds us of Singapore’s tropical and pre-colonial identity too. Predators at the top of the rainforest food chain loom large in tropical cultures. The jaguar, in the Central American case, and the tiger, in the case of Singapore, have historically earned prominent roles in the cultural imaginations of these two places. In cultures all over Central America, the jaguar has historically been a symbol of power and divinity.[^29] These species have historically been respected and feared—they are aggressive and will dominate whatever environment they are put in. In Singapore, for example, the tiger was a major preoccupation of colonial control, given it posed a threat to settler communities and plantation labour ( ).[^30] The tiger and the jaguar alike express that something about the tropics which cannot be tamed; as Wong Zi Hao reflects on in the context of Tanjong Rimau (‘Tiger Cape’ in Malay). The reference to the tiger in this island’s name is an expression that the “landscape that is out-of-bounds”.[^31] Although there are no wild tigers in Singapore anymore, the Jaguar Cichlid reminds us they were once here, and the place was theirs.
+
+<param ve-image 
+       url="media/Figure 7.jpeg"
+       title="Interrupted Road 'Surveying in Singapore. The figure of the tiger remains a central part of the imagined ‘unruliness’ of pre-modern tropical Singapore.">
 
 
 ##
