@@ -43,7 +43,7 @@ The international dimension of local ornamental fish communities reflects Singap
 
 <param ve-image 
        url="media/Figure 6.jpeg"
-       title=" The Mozambique Tilapia was included in a special ‘Life in the Pond’ stamp collection in Singapore in 2011.">
+       title="The Mozambique Tilapia was included in a special ‘Life in the Pond’ stamp collection in Singapore in 2011.">
 
 ##
 The Jaguar Cichlid, for example, reminds us that Singapore is part of a global tropical zone beyond Southeast Asia. Its adaptation to Singapore’s water bodies has only been possible due to its suitability for the warm water also found in the Central American tropics. Likewise, its name, the jaguar, reminds us of Singapore’s tropical and pre-colonial identity too. Predators at the top of the rainforest food chain loom large in tropical cultures. The jaguar, in the Central American case, and the tiger, in the case of Singapore, have historically earned prominent roles in the cultural imaginations of these two places. In cultures all over Central America, the jaguar has historically been a symbol of power and divinity.[^29] These species have historically been respected and feared—they are aggressive and will dominate whatever environment they are put in. In Singapore, for example, the tiger was a major preoccupation of colonial control, given it posed a threat to settler communities and plantation labour ( ).[^30] The tiger and the jaguar alike express that something about the tropics which cannot be tamed; as Wong Zi Hao reflects on in the context of Tanjong Rimau (‘Tiger Cape’ in Malay). The reference to the tiger in this island’s name is an expression that the “landscape that is out-of-bounds”.[^31] Although there are no wild tigers in Singapore anymore, the Jaguar Cichlid reminds us they were once here, and the place was theirs.
@@ -69,15 +69,15 @@ The image of an untameable predator roaming the tropical rainforest may not alig
 [^7]:  “Parachromis managuensis”, Seriously Fish, 2023, https://www.seriouslyfish.com/species/parachromis-managuensis/.
 [^8]:  Sad-Sheepherder-6862, “what species of cichlid is this? caught in singapore, locally known as "japanese fish"”, Reddit. 2023, https://www.reddit.com/r/Fishing/comments/123nzf6/what_species_of_cichlid_is_this_caught_in /. 
 [^9]:  “Jaguar Cichlids”, Aquatic Community, 2008, https://www.aquaticcommunity.com/cichlid/jaguar.php. 
-[^10]:  N. Pallewatta, JK Reaser & A. Gutierrez, “Invasive Alien Species in South-South East Asia, National Reports and Directory of Resources”, Global Invasive Species Programme (2003). 
-[^11]:  B. Holmes, S. Williams & T. Power, “Evidence of naturalisation of the invasive jaguar cichlid Parachromis managuensis (Günther, 1867), in Queensland, Australia”, BioInvasions Records, no.9 (2020).
+[^10]:  N. Pallewatta, JK Reaser & A. Gutierrez, “Invasive Alien Species in South-South East Asia, National Reports and Directory of Resources”, *Global Invasive Species Programme* (2003). 
+[^11]:  B. Holmes, S. Williams & T. Power, “Evidence of naturalisation of the invasive jaguar cichlid Parachromis managuensis (Günther, 1867), in Queensland, Australia”, *BioInvasions Records*, no.9 (2020).
 [^12]: Cheryl Tan, “Study by PUB, NUS identifies 55 fish species in Singapore's 17 reservoirs”, Straits Times, 2021, https://www.straitstimes.com/singapore/environment/study-by-pub-nus-identifies-55-fish-species-in-singapores-17-reservoirs. 
-[^13]:  “Mayan Cichlid”, Florida Fish and Wildlife Conservation Commission, Accessed May 2023,  https://myfwc.com/wildlifehabitats/profiles/freshwater/mayan-cichlid. 
+[^13]:  “Mayan Cichlid”, *Florida Fish and Wildlife Conservation Commission*, Accessed May 2023,  https://myfwc.com/wildlifehabitats/profiles/freshwater/mayan-cichlid. 
 [^14]:  Cheryl Tan, “Study by PUB, NUS identifies 55 fish species in Singapore's 17 reservoirs”, Straits Times, 2021, https://www.straitstimes.com/singapore/environment/study-by-pub-nus-identifies-55-fish-species-in-singapores-17-reservoirs. 
-[^15]:  Bi Wei Low, “Invasive Fish Research in Tropical East Asia: Current Status and Future Directions”, Learning From Aliens: New Directions in Environmental Humanities Research and Practice, Asia Research Institute, National University of Singapore, Conference Presentation May 4th 2023.  
+[^15]:  Bi Wei Low, “Invasive Fish Research in Tropical East Asia: Current Status and Future Directions”, *Learning From Aliens: New Directions in Environmental Humanities Research and Practice, Asia Research Institute, National University of Singapore*, Conference Presentation May 4th 2023.  
 [^16]: Tai Wei Lim, “Development of Singapore’s Ornamental Fish Industry”, FFTC Agricultural Policy Platform (FFTC-AP), 2022, https://ap.fftc.org.tw/article/3022. 
-[^17]:  Brenda Yeoh. “‘Upwards’ or ‘Sideways’ cosmopolitanism? Talent/labour/marriage migrations in the globalising city-state of Singapore”, Migration Studies, no.1(1) (2013): 96-116.
-[^18]:  Bi Wei Low, “Invasive Fish Research in Tropical East Asia: Current Status and Future Directions”, Learning From Aliens: New Directions in Environmental Humanities Research and Practice, Asia Research Institute, National University of Singapore, Conference Presentation May 4th 2023.  
+[^17]:  Brenda Yeoh. “‘Upwards’ or ‘Sideways’ cosmopolitanism? Talent/labour/marriage migrations in the globalising city-state of Singapore”, *Migration Studies*, no.1(1) (2013): 96-116.
+[^18]:  Bi Wei Low, “Invasive Fish Research in Tropical East Asia: Current Status and Future Directions”, *Learning From Aliens: New Directions in Environmental Humanities Research and Practice, Asia Research Institute, National University of Singapore*, Conference Presentation May 4th 2023.  
 [^19]:  Tai Wei Lim, “Development of Singapore’s Ornamental Fish Industry”, FFTC Agricultural Policy Platform (FFTC-AP), 2022, https://ap.fftc.org.tw/article/3022. 
 [^20]:  Tai Wei Lim, “Development of Singapore’s Ornamental Fish Industry”, FFTC Agricultural Policy Platform (FFTC-AP), 2022, https://ap.fftc.org.tw/article/3022. 
 [^21]: Tai Wei Lim, “Development of Singapore’s Ornamental Fish Industry”, FFTC Agricultural Policy Platform (FFTC-AP), 2022, https://ap.fftc.org.tw/article/3022. 
@@ -91,5 +91,5 @@ The image of an untameable predator roaming the tropical rainforest may not alig
 [^29]:  Isabel Bueno, “Los jaguares fueron los felinos divinos de las antiguas Américas”, National Geographic Latinoamérica, 2018, https://www.nationalgeographicla.com/animales/2018/10/los-jaguares-fueron-los-felinos-divinos-de-las-antiguas-americas. 
 [^30]:
 [^31]: Zi Hao Wong, “Intimate Landscapes”, Exhibition at the NUS Museum, 2023.
-[^32]: Bi Wei Low, “Invasive Fish Research in Tropical East Asia: Current Status and Future Directions”, Learning From Aliens: New Directions in Environmental Humanities Research and Practice, Asia Research Institute, National University of Singapore, Conference Presentation May 4th 2023.  
+[^32]: Bi Wei Low, “Invasive Fish Research in Tropical East Asia: Current Status and Future Directions”, *Learning From Aliens: New Directions in Environmental Humanities Research and Practice, Asia Research Institute, National University of Singapore*, Conference Presentation May 4th 2023.  
 
