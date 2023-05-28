@@ -3,7 +3,7 @@
 <param ve-config 
        title="Jaguar Cichlid: A Tropical Predator"
        author="Max D. López Toledano"
-       banner="https://iiif.wellcomecollection.org/image/V0044770/full/1338%2C/0/default.jpg"
+       banner="[https://iiif.wellcomecollection.org/image/V0044770/full/1338%2C/0/default.jpg](https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Parachromis_managuensis.jpg/640px-Parachromis_managuensis.jpg)"
        layout="vertical">
        
 
@@ -23,6 +23,8 @@ In Singapore, Jaguar Cichlids can be found in aquarium shops as well as in the w
        attribution="Bonnie Holmes 2014">  
 
 The history of the aquarium trade in Singapore is deeply entangled with Singapore’s political, cultural, and economic history. The aquarium trade in Singapore began during the colonial era with British administrators who imported fish as a hobby or as a side business, and also to control mosquito populations.[^16] Since then, the aquarium industry has become part of Singapore’s broader political ambition to become a ‘world-class’ cosmopolitan city. This vision has required Singapore and Singaporeans to develop their own “economic and cultural aspirations of the nation [with]in a globalised age”,[^17] in which imaginations of ‘the global’—and its products—are present in all aspects of everyday life. The aquarium trade has grown in step with Singapore’s global ambitions, increasingly exponentially since 1996;[^18] by 2014 Singapore was already considered the ‘ornamental fish capital of the world’.[^19] Singapore became a regional trading hub and the world’s #1 ornamental fish exporter, although Japan has now overtaken Singapore in that regard.[^20] Today, there are 125 ornamental fish farms in operation in Singapore,[^21] and acquiring a rare species is rather easy. To get a Jaguar Cichlid in Singapore, for example, one can simply search for it on Facebook, Carousell, or go to any of the many fish stores that are located all over the island. 
+                                       
+                                       
 
 The aquarium trade, of course, does not only have economic implications. It is enmeshed with cultural trends as well. For aquarium keepers in Singapore today, rearing and displaying fish is a way of building community and expressing themselves. An example of this is the ‘Singapore Cichlid Keepers’ society, a Facebook group that has over 1,700 “Cichlid lovers and aquarium enthusiast” members.[^22] In this group, members share videos of their cichlids and meaningful information about particular species, and recommend products to each other to improve their aquarium tanks. New members are routinely welcomed in posts by the group administrator, and they are also invited to join the Telegram group chat, where over 40 community members ask questions related to aquarium maintenance and/or buy and sell different Cichlid species. 
 
