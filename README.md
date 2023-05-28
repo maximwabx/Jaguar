@@ -18,8 +18,9 @@ In Singapore, Jaguar Cichlids can be found in aquarium shops as well as in the w
 
 <param ve-image 
        url="Jaguar/Fig 2.png"
-       title="‘History of non-native establishments of jaguar cichlid worldwide, in chronological order (where known or reported).’. Table by Bonnie Holmes 2014.">
+       title="‘History of non-native establishments of jaguar cichlid worldwide, in chronological order (where known or reported).’. Table by Holmes et al. 2020.">
 
+##
 The history of the aquarium trade in Singapore is deeply entangled with Singapore’s political, cultural, and economic history. The aquarium trade in Singapore began during the colonial era with British administrators who imported fish as a hobby or as a side business, and also to control mosquito populations.[^16] Since then, the aquarium industry has become part of Singapore’s broader political ambition to become a ‘world-class’ cosmopolitan city. This vision has required Singapore and Singaporeans to develop their own “economic and cultural aspirations of the nation [with]in a globalised age”,[^17] in which imaginations of ‘the global’—and its products—are present in all aspects of everyday life. The aquarium trade has grown in step with Singapore’s global ambitions, increasingly exponentially since 1996;[^18] by 2014 Singapore was already considered the ‘ornamental fish capital of the world’.[^19] Singapore became a regional trading hub and the world’s #1 ornamental fish exporter, although Japan has now overtaken Singapore in that regard.[^20] Today, there are 125 ornamental fish farms in operation in Singapore,[^21] and acquiring a rare species is rather easy. To get a Jaguar Cichlid in Singapore, for example, one can simply search for it on Facebook, Carousell, or go to any of the many fish stores that are located all over the island.                                 
 <param ve-image 
        url="https://4.bp.blogspot.com/-Cjw4sCu_ek4/WcZqq49iVcI/AAAAAAAAVdg/QI2qML1imM4YnEUPuUW4oLk7G-DJ26pdwCLcBGAs/s1600/mayan_cichlid.jpg"
