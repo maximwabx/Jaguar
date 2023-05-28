@@ -11,8 +11,7 @@ The Jaguar Cichlid (Parachromis managuensis) is native to Central America, speci
 
 <param ve-image 
        url="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Parachromis_managuensis_2012_G1.jpg/1600px-Parachromis_managuensis_2012_G1.jpg?20120311175105"
-       title="Jaguar Cichlids" 
-       description="Jaguar Cichlids are highly prized by aquarium keepers. Photo by George Chernilevsky.">
+       title="Jaguar Cichlids are highly prized by aquarium keepers. Photo by George Chernilevsky.">
 
 In Singapore, Jaguar Cichlids can be found in aquarium shops as well as in the wild, mostly in canals and other freshwater water bodies. Local fishermen run into them on occasion.[^8] It has specifically been reported in the Pandan Canal, Lake Jurong, and the Yishun Stormwater Collection Pond.[^9] The Jaguar Cichlid was first reported in the wild in Singapore in 2003[^10] and has also been found in China, Hawaii, Puerto Rico, Australia, several countries in Central America, and some parts of the United States since, where it has found warm waters similar to the tropical climate to which it is native.[^11] Although the Jaguar Cichlid is in some contexts also known as the ‘Aztec Cichlid’, it is important to not confuse it with the Mayan Cichlid (Cichlasoma urophthalmus) or the Quetzal Cichlid (Vieja melanurus). These two species can also be found in Singapore[^12] and are native to Central America,[^13] but they are smaller and their appearance is very different to the iconic spotted pattern of the Jaguar Cichlid. All these species are suspected to have arrived in Singapore via the aquarium trade and then released into water reservoirs when they were no longer wanted.[^14] The basis for this hypothesis is that the aquarium trade accounts for the introduction of approximately 65% of the 123 non-native fish species found in Singapore, of which 24% are Cichlids.[^15]
 
