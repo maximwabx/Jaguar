@@ -1,7 +1,7 @@
 # Jaguar Cichlid
 
 <param ve-config 
-       title="Jaguar Cichlid: A Tropical Predator"
+       title="Jaguar Cichlid: Title in Progress"
        author="Max D. López Toledano"
        banner="https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Parachromis_managuensis.jpg/640px-Parachromis_managuensis.jpg"
        layout="vertical">
@@ -17,7 +17,7 @@ The Jaguar Cichlid (Parachromis managuensis) is native to Central America, speci
 In Singapore, Jaguar Cichlids can be found in aquarium shops as well as in the wild, mostly in canals and other freshwater water bodies. Local fishermen run into them on occasion.[^8] It has specifically been reported in the Pandan Canal, Lake Jurong, and the Yishun Stormwater Collection Pond.[^9] The Jaguar Cichlid was first reported in the wild in Singapore in 2003[^10] and has also been found in China, Hawaii, Puerto Rico, Australia, several countries in Central America, and some parts of the United States since, where it has found warm waters similar to the tropical climate to which it is native.[^11] Although the Jaguar Cichlid is in some contexts also known as the ‘Aztec Cichlid’, it is important to not confuse it with the Mayan Cichlid (Cichlasoma urophthalmus) or the Quetzal Cichlid (Vieja melanurus). These two species can also be found in Singapore[^12] and are native to Central America,[^13] but they are smaller and their appearance is very different to the iconic spotted pattern of the Jaguar Cichlid. All these species are suspected to have arrived in Singapore via the aquarium trade and then released into water reservoirs when they were no longer wanted.[^14] The basis for this hypothesis is that the aquarium trade accounts for the introduction of approximately 65% of the 123 non-native fish species found in Singapore, of which 24% are Cichlids.[^15]
 
 <param ve-image 
-       url="media/Fig2.png"
+       url="https://github.com/maximwabx/Jaguar/blob/main/media/Fig2.png"
        title="‘History of non-native establishments of jaguar cichlid worldwide, in chronological order (where known or reported).’. Table by Holmes et al. 2020.">
 
 ##
@@ -30,7 +30,7 @@ The history of the aquarium trade in Singapore is deeply entangled with Singapor
 The aquarium trade, of course, does not only have economic implications. It is enmeshed with cultural trends as well. For aquarium keepers in Singapore today, rearing and displaying fish is a way of building community and expressing themselves. An example of this is the ‘Singapore Cichlid Keepers’ society, a Facebook group that has over 1,700 “Cichlid lovers and aquarium enthusiast” members.[^22] In this group, members share videos of their cichlids and meaningful information about particular species, and recommend products to each other to improve their aquarium tanks. New members are routinely welcomed in posts by the group administrator, and they are also invited to join the Telegram group chat, where over 40 community members ask questions related to aquarium maintenance and/or buy and sell different Cichlid species. 
 
 <param ve-image 
-       url="media/Fig 4.png"
+       url="https://github.com/maximwabx/Jaguar/blob/main/media/Fig%204.png"
        title="A member of the Singapore Cichlid Keepers group proudly shows his Golden Jaguar to other group members. Screenshot taken by author.">
 
 ##
