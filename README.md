@@ -5,22 +5,21 @@
        author="Max D. López Toledano"
        banner="https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Parachromis_managuensis.jpg/640px-Parachromis_managuensis.jpg"
        layout="vertical">
-       
-
+      
 
 The Jaguar Cichlid (Parachromis managuensis) is native to Central America, specifically Nicaragua, where it is also known as guapote (roughly translating to ‘Big Handsome Guy’). Its yellow skin with black spots, its large size for a fish (it can grow up to 65 centimetres long [^1] and weigh up to 7kg [^2]), and its well-known aggressive demeanour make it a jaguar of the lakes, ponds, and rivers it inhabits. Much like a jaguar, this fish is known to be a top predator in whichever environment it enters. The Jaguar Cichlid is big, territorial, eats other fish—as well as insects, shrimp, and frogs— and can lay up to 5,000 eggs at once.[^3] And, if the newly hatched jaguar fry are not removed from the tank after two weeks, they will likely be eaten by their very own parents.[^4] This fish has a lifespan of up to 15 years[^5] and females can be distinguished from males as “females are smaller and more rounded” whereas “males have pointed dorsal, anal fins, and generally more colour”.[^6] Even though it is “not recommended for beginners” and it has the reputation of being a “tank buster”, its beauty is hard to miss, making it a highly-prized species amongst aquarium keepers.[^7]
 
 <param ve-image 
-       url="media/Fig 2.png"
-       title="Jaguar Cichlid" 
-       description="Jaguar Cichlids are highly prized by aquarium keepers. Photo by George Chernilevsky taken from Wikimedia Commons.">
+       url="https://iiif.wellcomecollection.org/image/V0044770/full/1338%2C/0/default.jpg"
+       title="Jaguar Cichlids" 
+       description="Jaguar Cichlids are highly prized by aquarium keepers. Photo by George Chernilevsky.">
 
 In Singapore, Jaguar Cichlids can be found in aquarium shops as well as in the wild, mostly in canals and other freshwater water bodies. Local fishermen run into them on occasion.[^8] It has specifically been reported in the Pandan Canal, Lake Jurong, and the Yishun Stormwater Collection Pond.[^9] The Jaguar Cichlid was first reported in the wild in Singapore in 2003[^10] and has also been found in China, Hawaii, Puerto Rico, Australia, several countries in Central America, and some parts of the United States since, where it has found warm waters similar to the tropical climate to which it is native.[^11] Although the Jaguar Cichlid is in some contexts also known as the ‘Aztec Cichlid’, it is important to not confuse it with the Mayan Cichlid (Cichlasoma urophthalmus) or the Quetzal Cichlid (Vieja melanurus). These two species can also be found in Singapore[^12] and are native to Central America,[^13] but they are smaller and their appearance is very different to the iconic spotted pattern of the Jaguar Cichlid. All these species are suspected to have arrived in Singapore via the aquarium trade and then released into water reservoirs when they were no longer wanted.[^14] The basis for this hypothesis is that the aquarium trade accounts for the introduction of approximately 65% of the 123 non-native fish species found in Singapore, of which 24% are Cichlids.[^15]
 
 <param ve-image 
-       url="media/victoria-crowned=pigeon.jpg"
-       title=" ‘History of non-native establishments of jaguar cichlid worldwide, in chronological order (where known or reported).’
-       attribution="Bonnie Holmes 2014">  
+       url="media/Fig 2.png"
+       title="Jaguar Cichlid" 
+       description="J‘History of non-native establishments of jaguar cichlid worldwide, in chronological order (where known or reported).’. Table by Bonnie Holmes 2014.">
 
 The history of the aquarium trade in Singapore is deeply entangled with Singapore’s political, cultural, and economic history. The aquarium trade in Singapore began during the colonial era with British administrators who imported fish as a hobby or as a side business, and also to control mosquito populations.[^16] Since then, the aquarium industry has become part of Singapore’s broader political ambition to become a ‘world-class’ cosmopolitan city. This vision has required Singapore and Singaporeans to develop their own “economic and cultural aspirations of the nation [with]in a globalised age”,[^17] in which imaginations of ‘the global’—and its products—are present in all aspects of everyday life. The aquarium trade has grown in step with Singapore’s global ambitions, increasingly exponentially since 1996;[^18] by 2014 Singapore was already considered the ‘ornamental fish capital of the world’.[^19] Singapore became a regional trading hub and the world’s #1 ornamental fish exporter, although Japan has now overtaken Singapore in that regard.[^20] Today, there are 125 ornamental fish farms in operation in Singapore,[^21] and acquiring a rare species is rather easy. To get a Jaguar Cichlid in Singapore, for example, one can simply search for it on Facebook, Carousell, or go to any of the many fish stores that are located all over the island. 
                                        
