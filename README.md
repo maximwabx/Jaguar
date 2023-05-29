@@ -50,7 +50,7 @@ The Jaguar Cichlid, for example, reminds us that Singapore is part of a global t
 
 <param ve-image 
        url="https://github.com/maximwabx/Jaguar/assets/134259666/6c867249-946e-4d22-a2e5-dfd64edb50e9"
-       title="Interrupted Road 'Surveying in Singapore. The figure of the tiger remains a central part of the imagined ‘unruliness’ of pre-modern tropical Singapore.">
+       title="'Interrupted Road Surveying in Singapore'. The figure of the tiger remains a central part of the imagined ‘unruliness’ of pre-modern tropical Singapore.">
 
 ##
 The image of an untameable predator roaming the tropical rainforest may not align with the controlled beauty of a Jaguar Cichlid swimming within the glass walls of an aquarium tank, but the cichlid reminds us that even cultivated species can escape beyond human control. Much like the jaguar, this fish can be both beautiful and destructive. When released, it can throw local ecologies off balance, displacing local species from their ecological niches and changing the food web altogether.[^32] As Singapore goes global, its cultural identity and natural environment have changed and will continue to do so—but neither form of change is a straightforward story of loss. Through globalisation, we get to place our identities in a larger world, connecting with parts of ourselves we see elsewhere. The Jaguar Cichlid, in the same sense, may originally come from Central America, but it is now an established part of multiple ecosystems in Singapore, and it has made a place for itself in the cultural life of the city-state as well. 
