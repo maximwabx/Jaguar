@@ -1,4 +1,4 @@
-# Jaguar Cichlid
+# Jaguar Cichlid (*Parachromis managuensis*)
 
 <param ve-config 
        title="Jaguar Cichlid: Title in Progress"
