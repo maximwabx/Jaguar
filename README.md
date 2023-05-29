@@ -1,7 +1,7 @@
 # Jaguar Cichlid (*Parachromis managuensis*)
 
 <param ve-config 
-       title="Jaguar Cichlid: Title in Progress"
+       title="Jaguar Cichlid: Beauty Pageant, Tropical Predator"
        author="Max D. López Toledano"
        banner="https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Parachromis_managuensis.jpg/640px-Parachromis_managuensis.jpg"
        layout="vertical">
@@ -59,35 +59,35 @@ The image of an untameable predator roaming the tropical rainforest may not alig
 
 # References
 
-[^1]:  Lawrence M Page & Brooks M. Burr. A Field Guide to Freshwater Fishes of North America, North of Mexico. (Boston: Houghton Mifflin Company: 1991).
-[^2]:  “Jaguar Cichlid — Everything You Need To Know About Care”,  Aquarium Store Depot, 2023, https://aquariumstoredepot.com/blogs/news/jaguar-cichlid. 
-[^3]: Adam Edmond, “Jaguar Cichlid: Care Guide, Breeding, Tank Size And Disease”, The Aquarium Guide, 2022, https://theaquariumguide.com/articles/jaguar-cichlid.
-[^4]: “Jaguar Cichlid”, Aquarium Domain, (2023), https://www.aquariumdomain.com/SpeciesProfiles/NewWorldCichlids/JaguarCichlid.shtml. 
-[^5]:  Steve Morgan, “Jaguar Cichlid Expert Care Guide & Tank Set Up For Aquarists”, Modest Fish, 2021, https://modestfish.com/jaguar-cichlid/. 
-[^6]: “Parachromis managuensis”, Seriously Fish, 2023, https://www.seriouslyfish.com/species/parachromis-managuensis/.
-[^7]:  “Parachromis managuensis”, Seriously Fish, 2023, https://www.seriouslyfish.com/species/parachromis-managuensis/.
-[^8]:  Sad-Sheepherder-6862, “what species of cichlid is this? caught in singapore, locally known as "japanese fish"”, Reddit. 2023, https://www.reddit.com/r/Fishing/comments/123nzf6/what_species_of_cichlid_is_this_caught_in /. 
-[^9]:  “Jaguar Cichlids”, Aquatic Community, 2008, https://www.aquaticcommunity.com/cichlid/jaguar.php. 
+[^1]:  Lawrence M Page & Brooks M. Burr, *A Field Guide to Freshwater Fishes of North America, North of Mexico*, (Boston: Houghton Mifflin Company: 1991).
+[^2]:  “Jaguar Cichlid — Everything You Need To Know About Care”,  Aquarium Store Depot, 2023. https://aquariumstoredepot.com/blogs/news/jaguar-cichlid. 
+[^3]: Adam Edmond, “Jaguar Cichlid: Care Guide, Breeding, Tank Size And Disease”, The Aquarium Guide, 2022. https://theaquariumguide.com/articles/jaguar-cichlid.
+[^4]: “Jaguar Cichlid”, Aquarium Domain, 2023. https://www.aquariumdomain.com/SpeciesProfiles/NewWorldCichlids/JaguarCichlid.shtml. 
+[^5]:  Steve Morgan, “Jaguar Cichlid Expert Care Guide & Tank Set Up For Aquarists”, Modest Fish, 2021. https://modestfish.com/jaguar-cichlid/. 
+[^6]: “Parachromis managuensis”, Seriously Fish, 2023. https://www.seriouslyfish.com/species/parachromis-managuensis/.
+[^7]:  “Parachromis managuensis”, Seriously Fish, 2023. https://www.seriouslyfish.com/species/parachromis-managuensis/.
+[^8]:  Sad-Sheepherder-6862, “what species of cichlid is this? caught in singapore, locally known as "japanese fish"”, Reddit. 2023. https://www.reddit.com/r/Fishing/comments/123nzf6/what_species_of_cichlid_is_this_caught_in /. 
+[^9]:  “Jaguar Cichlids”, Aquatic Community, 2008. https://www.aquaticcommunity.com/cichlid/jaguar.php. 
 [^10]:  N. Pallewatta, JK Reaser & A. Gutierrez, “Invasive Alien Species in South-South East Asia, National Reports and Directory of Resources”, *Global Invasive Species Programme* (2003). 
 [^11]:  B. Holmes, S. Williams & T. Power, “Evidence of naturalisation of the invasive jaguar cichlid Parachromis managuensis (Günther, 1867), in Queensland, Australia”, *BioInvasions Records*, no.9 (2020).
-[^12]: Cheryl Tan, “Study by PUB, NUS identifies 55 fish species in Singapore's 17 reservoirs”, Straits Times, 2021, https://www.straitstimes.com/singapore/environment/study-by-pub-nus-identifies-55-fish-species-in-singapores-17-reservoirs. 
-[^13]:  “Mayan Cichlid”, *Florida Fish and Wildlife Conservation Commission*, Accessed May 2023,  https://myfwc.com/wildlifehabitats/profiles/freshwater/mayan-cichlid. 
-[^14]:  Cheryl Tan, “Study by PUB, NUS identifies 55 fish species in Singapore's 17 reservoirs”, Straits Times, 2021, https://www.straitstimes.com/singapore/environment/study-by-pub-nus-identifies-55-fish-species-in-singapores-17-reservoirs. 
+[^12]: Cheryl Tan, “Study by PUB, NUS identifies 55 fish species in Singapore's 17 reservoirs”, Straits Times, 2021. https://www.straitstimes.com/singapore/environment/study-by-pub-nus-identifies-55-fish-species-in-singapores-17-reservoirs. 
+[^13]:  “Mayan Cichlid”, Florida Fish and Wildlife Conservation Commission, Accessed May 2023.  https://myfwc.com/wildlifehabitats/profiles/freshwater/mayan-cichlid. 
+[^14]:  Cheryl Tan, “Study by PUB, NUS identifies 55 fish species in Singapore's 17 reservoirs”, Straits Times, 2021. https://www.straitstimes.com/singapore/environment/study-by-pub-nus-identifies-55-fish-species-in-singapores-17-reservoirs. 
 [^15]:  Bi Wei Low, “Invasive Fish Research in Tropical East Asia: Current Status and Future Directions”, *Learning From Aliens: New Directions in Environmental Humanities Research and Practice, Asia Research Institute, National University of Singapore*, Conference Presentation May 4th 2023.  
-[^16]: Tai Wei Lim, “Development of Singapore’s Ornamental Fish Industry”, FFTC Agricultural Policy Platform (FFTC-AP), 2022, https://ap.fftc.org.tw/article/3022. 
-[^17]:  Brenda Yeoh. “‘Upwards’ or ‘Sideways’ cosmopolitanism? Talent/labour/marriage migrations in the globalising city-state of Singapore”, *Migration Studies*, no.1(1) (2013): 96-116.
+[^16]: Tai Wei Lim, “Development of Singapore’s Ornamental Fish Industry”, FFTC Agricultural Policy Platform (FFTC-AP), 2022. https://ap.fftc.org.tw/article/3022. 
+[^17]:  Brenda Yeoh. “‘Upwards’ or ‘Sideways’ cosmopolitanism? Talent/labour/marriage migrations in the globalising city-state of Singapore”, *Migration Studies* 1, No.1 (2013): 96-116.
 [^18]:  Bi Wei Low, “Invasive Fish Research in Tropical East Asia: Current Status and Future Directions”, *Learning From Aliens: New Directions in Environmental Humanities Research and Practice, Asia Research Institute, National University of Singapore*, Conference Presentation May 4th 2023.  
-[^19]:  Tai Wei Lim, “Development of Singapore’s Ornamental Fish Industry”, FFTC Agricultural Policy Platform (FFTC-AP), 2022, https://ap.fftc.org.tw/article/3022. 
-[^20]:  Tai Wei Lim, “Development of Singapore’s Ornamental Fish Industry”, FFTC Agricultural Policy Platform (FFTC-AP), 2022, https://ap.fftc.org.tw/article/3022. 
-[^21]: Tai Wei Lim, “Development of Singapore’s Ornamental Fish Industry”, FFTC Agricultural Policy Platform (FFTC-AP), 2022, https://ap.fftc.org.tw/article/3022. 
-[^22]: “About”, Singapore Cichlid Keepers,  Facebook, 2023, https://www.facebook.com/groups/149178055452470. 
-[^23]: Margot D. Weiss “Techniques of Pleasure: BDSM and the Circuits of Sexuality”, (Durham: Duke University Press, 2011).
-[^24]: Margot D. Weiss “Techniques of Pleasure: BDSM and the Circuits of Sexuality”, (Durham: Duke University Press, 2011): 14.
-[^25]: Margot D. Weiss “Techniques of Pleasure: BDSM and the Circuits of Sexuality”, (Durham: Duke University Press, 2011): 8.
+[^19]:  Tai Wei Lim, “Development of Singapore’s Ornamental Fish Industry”, FFTC Agricultural Policy Platform (FFTC-AP), 2022. https://ap.fftc.org.tw/article/3022. 
+[^20]:  Tai Wei Lim, “Development of Singapore’s Ornamental Fish Industry”, FFTC Agricultural Policy Platform (FFTC-AP), 2022. https://ap.fftc.org.tw/article/3022. 
+[^21]: Tai Wei Lim, “Development of Singapore’s Ornamental Fish Industry”, FFTC Agricultural Policy Platform (FFTC-AP), 2022. https://ap.fftc.org.tw/article/3022. 
+[^22]: “About”, Singapore Cichlid Keepers,  Facebook, 2023. https://www.facebook.com/groups/149178055452470. 
+[^23]: Margot D. Weiss, *Techniques of Pleasure: BDSM and the Circuits of Sexuality*, (Durham: Duke University Press, 2011).
+[^24]: Margot D. Weiss, *Techniques of Pleasure: BDSM and the Circuits of Sexuality*, (Durham: Duke University Press, 2011): 14.
+[^25]: Margot D. Weiss, *Techniques of Pleasure: BDSM and the Circuits of Sexuality*, (Durham: Duke University Press, 2011): 8.
 [^26]: Sharanjit Leyl, “Singapore's Mr Fish: I'm a big fish in a small pond”, BBC News, 2014, https://www.bbc.com/news/business-29181701. 
-[^27]: Margot D. Weiss “Techniques of Pleasure: BDSM and the Circuits of Sexuality”, (Durham: Duke University Press, 2011): 102.
-[^28]: Trichopsis, “Re: Cichlids in singapore rivers log”, Aquatic Quotient, 2014, https://www.aquaticquotient.com/forum/showthread.php/115785-Cichlids-in-singapore-rivers-log. 
-[^29]:  Isabel Bueno, “Los jaguares fueron los felinos divinos de las antiguas Américas”, National Geographic Latinoamérica, 2018, https://www.nationalgeographicla.com/animales/2018/10/los-jaguares-fueron-los-felinos-divinos-de-las-antiguas-americas. 
+[^27]: Margot D. Weiss. *Techniques of Pleasure: BDSM and the Circuits of Sexuality*, (Durham: Duke University Press, 2011): 102.
+[^28]: Trichopsis, “Re: Cichlids in singapore rivers log”, Aquatic Quotient, 2014. https://www.aquaticquotient.com/forum/showthread.php/115785-Cichlids-in-singapore-rivers-log. 
+[^29]:  Isabel Bueno, “Los jaguares fueron los felinos divinos de las antiguas Américas”, National Geographic Latinoamérica, 2018. https://www.nationalgeographicla.com/animales/2018/10/los-jaguares-fueron-los-felinos-divinos-de-las-antiguas-americas. 
 [^30]: Goh Lee Kim, "When Tigers Used to Roam: Nature & Environment in Singapore", *Biblioasia*, National Library Singapore, 2016. https://mothership.sg/2016/12/tigers-once-roamed-singapore-making-meals-out-of-plantation-coolies/.
 [^31]: Zi Hao Wong, “Intimate Landscapes”, Exhibition at the NUS Museum, 2023.
 [^32]: Bi Wei Low, “Invasive Fish Research in Tropical East Asia: Current Status and Future Directions”, *Learning From Aliens: New Directions in Environmental Humanities Research and Practice, Asia Research Institute, National University of Singapore*, Conference Presentation May 4th 2023.  
